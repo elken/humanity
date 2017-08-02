@@ -7,13 +7,13 @@ permalink: /contact/
 summary: "How you can reach us"
 active: contact
 location:
-  latitude: 50.4682103
-  longitude: -3.5337094
+  latitude: 50.468161
+  longitude: -3.531531
 ---
 
 ## Visit us!
 
-{% google_map zoom="19" %}
+{% google_map zoom="20" %}
 &nbsp;
 
 | Monday | 10am-3pm |
