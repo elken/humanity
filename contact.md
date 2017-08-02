@@ -1,0 +1,38 @@
+---
+bg: "man.png"
+layout: page
+title: "Contact"
+crawlertitle: "How you can reach us"
+permalink: /contact/
+summary: "How you can reach us"
+active: contact
+location:
+  latitude: 50.4682103
+  longitude: -3.5337094
+---
+
+## Visit us!
+
+{% google_map zoom="19" %}
+&nbsp;
+
+| Monday | 10am-3pm |
+| Tuesday | 10am-3pm |
+| Wednesday | CLOSED |
+| Thursday | 10am-3pm |
+| Friday | 10am-2pm |
+| Saturday | 10am-2pm |
+| Sunday | CLOSED |
+
+## Call us! 
+01803 297537
+
+## Email us!
+
+[For more information](mailto:information@humanitytorbay.org.uk)
+
+[To contact the owner of this site](mailto:{{site.email}})
+
+## Reach out to us on social media!
+
+{% twitter https://twitter.com/humanitytorbay maxwidth=500 limit=5 %}

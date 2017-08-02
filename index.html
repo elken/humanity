@@ -1,0 +1,13 @@
+---
+layout: default
+crawlertitle: "Humanity Torbay"
+title: "Humanity Torbay"
+summary: "Making a difference to people's lives."
+---
+
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
