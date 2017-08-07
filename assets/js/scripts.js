@@ -2,7 +2,7 @@
 * Zoom Images, Get Date and Shadow
 * ========================================================================== */
 
-(function() {
+(function () {
   /* variables */
   var shadow = document.getElementById('shadow');
   var images = document.querySelectorAll('a img');
@@ -27,7 +27,7 @@
 
   function refreshImageSizes() {
     // select all images
-    [].forEach.call(images, function(img) {
+    [].forEach.call(images, function (img) {
       // if image zoomed
       if (img.classList.contains('img-popup')) {
         img.style.maxHeight = imageHeight + 'px';
@@ -51,7 +51,7 @@
   }
 
   function resetAllImages() {
-    [].forEach.call(images, function(img) {
+    [].forEach.call(images, function (img) {
       img.classList.remove('img-popup');
       img.style.cursor = 'zoom-in';
       img.style.marginLeft = 'auto';
@@ -60,24 +60,26 @@
   }
 
   function toggleImages() {
-    [].forEach.call(images, function(img) {
-      img.addEventListener('click', function(event) {
-        event.preventDefault();
-        img.classList.toggle('img-popup');
-        if (img.classList.contains('img-popup')) {
-          img.style.cursor = 'zoom-out';
-          img.style.maxHeight = imageHeight + 'px';
-          img.style.marginLeft = '-' + (img.offsetWidth / 2) + 'px';
-          img.style.marginTop = '-' + (img.offsetHeight / 2) + 'px';
-          shadow.style.display = 'block';
-        } else {
-          img.style.cursor = 'zoom-in';
-          img.style.maxHeight = '100%';
-          img.style.marginLeft = 'auto';
-          img.style.marginTop = 'auto';
-          shadow.style.display = 'none';
-        }
-      });
+    [].forEach.call(images, function (img) {
+      if (!img.classList.contains('no-popup')) {
+        img.addEventListener('click', function (event) {
+          event.preventDefault();
+          img.classList.toggle('img-popup');
+          if (img.classList.contains('img-popup')) {
+            img.style.cursor = 'zoom-out';
+            img.style.maxHeight = imageHeight + 'px';
+            img.style.marginLeft = '-' + (img.offsetWidth / 2) + 'px';
+            img.style.marginTop = '-' + (img.offsetHeight / 2) + 'px';
+            shadow.style.display = 'block';
+          } else {
+            img.style.cursor = 'zoom-in';
+            img.style.maxHeight = '100%';
+            img.style.marginLeft = 'auto';
+            img.style.marginTop = 'auto';
+            shadow.style.display = 'none';
+          }
+        });
+      }
     });
   }
 })();
@@ -87,7 +89,7 @@
 * Aside Resize
 * ========================================================================== */
 
-(function() {
+(function () {
   var aside = document.querySelector('.sidebar');
   var mainContainer = document.querySelectorAll('.content-wrapper');
   var switcher = document.getElementById('switcher');
@@ -98,7 +100,7 @@
   function slide() {
     aside.classList.add('transition-divs');
     aside.classList.toggle('aside-left');
-    [].forEach.call(mainContainer, function(c) {
+    [].forEach.call(mainContainer, function (c) {
       c.classList.add('transition-divs');
       c.classList.toggle('centering');
     });
