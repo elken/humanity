@@ -23,7 +23,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCocy6_kZ4oaS0t1nrOMYsEZkbr6YcZPrU&callback=myMap"></script>
-&nbsp;
+<br/>
 
 | Monday | 10am-3pm |
 | Tuesday | 10am-3pm |
@@ -39,6 +39,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 <h2>Email us!</h2>
 
 <a href="mailto:information@humanitytorbay.org.uk">For more information</a>
+<br/>
 <a href="mailto:{{site.email}}">To contact the owner of this site</a>
 
 <h2>Reach out to us on social media!</h2>
