@@ -14,16 +14,12 @@ gem "jekyll", "3.5.1"
 gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-   gem 'jekyll-compose'
-   gem 'jekyll-maps'
-   gem 'jekyll-admin'
-   gem 'jekyll-twitter-plugin'
-end
+# group :jekyll_plugins do
+# end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'mini_magick'
-gem 'html_compressor'
-gem 'rake'
+# gem 'mini_magick'
+# gem 'html_compressor'
+# gem 'rake'

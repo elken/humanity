@@ -33,11 +33,4 @@ compress_html:
 sass:
   sass_dir: assets/_sass
   style: compressed
-plugins:
-- jekyll-maps
-- jekyll-admin
-- jekyll-twitter-plugin
 images: "/assets/images"
-maps:
-  google:
-    api_key: AIzaSyCocy6_kZ4oaS0t1nrOMYsEZkbr6YcZPrU
