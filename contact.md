@@ -1,14 +1,14 @@
 ---
-bg: "man.png"
-layout: page
-title: "Contact"
-crawlertitle: "How you can reach us"
-permalink: /contact/
-summary: "How you can reach us"
+title: Contact
+permalink: "/contact/"
+bg: man.png
+crawlertitle: How you can reach us
+summary: How you can reach us
 active: contact
 location:
   latitude: 50.468161
   longitude: -3.531531
+layout: page
 ---
 
 ## Visit us!
@@ -33,6 +33,6 @@ location:
 
 [To contact the owner of this site](mailto:{{site.email}})
 
-## Reach out to us on social media!
+## Reach out to us on social media!!
 
 {% twitter https://twitter.com/humanitytorbay maxwidth=500 limit=5 %}

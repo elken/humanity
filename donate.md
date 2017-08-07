@@ -1,10 +1,10 @@
 ---
-bg: "man.png"
+title: Donate
+permalink: "/donate/"
+bg: man.png
 layout: page
-title: "Donate"
-crawlertitle: "Donations are welcome"
-permalink: /donate/
-summary: "Donations are always welcome"
+crawlertitle: Donations are welcome
+summary: Donations are always welcome
 active: donate
 ---
 

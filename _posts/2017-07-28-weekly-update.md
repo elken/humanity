@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Weekly update
+date: 2017-07-28 00:00:00 Z
+layout: post
 ---
 
 This week has been a busy one. We’ve had over 100 people come to see us with many different problems.

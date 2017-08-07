@@ -1,55 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Humanity Torbay
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: admin@humanitytorbay.org.uk/
-description: >
-  Making a difference to people's lives.
-baseurl: ""
-lang: "en"
-url: "http://humanitytorbay.org.uk/"
+description: 'Making a difference to people''s lives.
+
+'
+baseurl: 
+lang: en
+url: http://humanitytorbay.org.uk/
 twitter_username: humanitytorbay
 facebook_username: humanitytorbay
-
-# Build settings
 markdown: kramdown
 relative_permalinks: false
-permalink: /:categories/:title/
-
-# Posts settings
+permalink: "/:categories/:title/"
 future: true
 safe: false
 lsi: false
 excerpt_separator: "\n\n"
-
-# Theme settings
 compress_html:
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   clippings: all
   endings: all
-
-# SASS settings
 sass:
   sass_dir: assets/_sass
   style: compressed
-
-# Plugins
 plugins:
-  - jekyll-maps
-  - jekyll-admin
-  - jekyll-twitter-plugin
-
-# Default image dir
-images: '/assets/images'
-
-# Misc settings
-
-# Maps
+- jekyll-maps
+- jekyll-admin
+- jekyll-twitter-plugin
+images: "/assets/images"
 maps:
   google:
     api_key: AIzaSyCocy6_kZ4oaS0t1nrOMYsEZkbr6YcZPrU
