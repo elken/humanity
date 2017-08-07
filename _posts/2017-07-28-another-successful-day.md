@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Another successful day
-bg: "another-successful-day.jpg"
+date: 2017-07-28 00:00:00 Z
+layout: post
+bg: another-successful-day.jpg
 ---
 
 Thank you for all the clothing donations we received today so much appreciated. 

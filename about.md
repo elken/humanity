@@ -1,10 +1,10 @@
 ---
-bg: "man.png"
+title: About
+permalink: "/about/"
+bg: man.png
 layout: page
-title: "About"
-crawlertitle: "What we do"
-permalink: /about/
-summary: "What we do"
+crawlertitle: What we do
+summary: What we do
 active: about
 ---
 

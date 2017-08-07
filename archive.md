@@ -1,9 +1,9 @@
 ---
+title: All posts
+permalink: "/posts/"
 layout: page
-permalink: /posts/
-title: "All posts"
-crawlertitle: "All articles"
-summary: "Posts about Humanity Torbay"
+crawlertitle: All articles
+summary: Posts about Humanity Torbay
 active: posts
 ---
 

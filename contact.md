@@ -1,10 +1,10 @@
 ---
-bg: "man.png"
+title: Contact
+permalink: "/contact/"
+bg: man.png
 layout: page
-title: "Contact"
-crawlertitle: "How you can reach us"
-permalink: /contact/
-summary: "How you can reach us"
+crawlertitle: How you can reach us
+summary: How you can reach us
 active: contact
 location:
   latitude: 50.468161
