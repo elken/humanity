@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 email: admin@humanitytorbay.org.uk/
 description: 'Making a difference to people''s lives.
 
@@ -34,10 +40,3 @@ sass:
   sass_dir: assets/_sass
   style: compressed
 images: "/assets/images"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
