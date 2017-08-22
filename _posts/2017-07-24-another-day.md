@@ -1,6 +1,6 @@
 ---
 title: Another Day
-date: 2017-07-24 00:00:00 +0000
+date: 2017-07-24 00:00:00 Z
 layout: post
 ---
 
