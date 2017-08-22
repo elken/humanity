@@ -1,6 +1,6 @@
 ---
 title: Night drop
-date: 2017-08-05 00:00:00 Z
+date: 2017-08-05 00:00:00 +0000
 layout: post
 ---
 
