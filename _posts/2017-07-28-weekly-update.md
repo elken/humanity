@@ -1,6 +1,6 @@
 ---
 title: Weekly update
-date: 2017-07-28 00:00:00 +0000
+date: 2017-07-28 00:00:00 Z
 layout: post
 ---
 
