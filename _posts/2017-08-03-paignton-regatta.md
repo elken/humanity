@@ -1,6 +1,6 @@
 ---
 title: Paignton Regatta
-date: 2017-08-03 00:00:00 Z
+date: 2017-08-03 00:00:00 +0000
 layout: post
 ---
 
