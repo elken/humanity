@@ -1,0 +1,42 @@
+---
+title: Humanity Torbay
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: admin@humanitytorbay.org.uk/
+description: 'Making a difference to people''s lives.
+
+'
+baseurl: 
+lang: en
+url: https://humanitytorbay.org.uk/
+twitter_username: humanitytorbay
+facebook_username: humanitytorbay
+markdown: kramdown
+relative_permalinks: false
+permalink: "/:categories/:title/"
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  clippings: all
+  endings: all
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+images: "/assets/images"
