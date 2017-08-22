@@ -1,6 +1,6 @@
 ---
 title: Mental Health
-date: 2017-07-23 00:00:00 Z
+date: 2017-07-23 00:00:00 +0000
 layout: post
 ---
 
