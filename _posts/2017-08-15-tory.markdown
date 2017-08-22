@@ -1,6 +1,6 @@
 ---
 title: Local Support
-date: 2017-08-15 07:27:00 Z
+date: 2017-08-15 07:27:00 +0000
 ---
 
 Thank you for supporting our cause and helping us win the breeze competition.

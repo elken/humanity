@@ -1,6 +1,6 @@
 ---
 title: Another successful day
-date: 2017-07-28 00:00:00 Z
+date: 2017-07-28 00:00:00 +0000
 layout: post
 bg: another-successful-day.jpg
 ---
