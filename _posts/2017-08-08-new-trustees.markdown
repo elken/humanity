@@ -1,6 +1,6 @@
 ---
 title: New Trustees
-date: 2017-08-08 17:53:00 +0000
+date: 2017-08-08 17:53:00 Z
 layout: post
 ---
 
