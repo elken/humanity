@@ -1,6 +1,6 @@
 ---
 title: Food donations
-date: 2017-07-26 00:00:00 Z
+date: 2017-07-26 00:00:00 +0000
 layout: post
 bg: food-donations.jpg
 ---
