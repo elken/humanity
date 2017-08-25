@@ -15,7 +15,7 @@ Across Devon and Cornwall there are 214 rough sleepers, including one on the Isl
 
 Where do these ridiculous numbers come from?? Ask any of he homeless charities in and around Devon and Cornwall and they will tell you there are many more than this. 
 
-What about the ones who cnnot be seen? 
+What about the ones who cannot be seen? 
 In derelict buildings? 
 Tents in the woods? 
 Sofa surfers? 
