@@ -10,6 +10,9 @@ Exeter has twice as many rough sleepers as Plymouth according to the latest figu
 Across Devon and Cornwall there are 214 rough sleepers, including one on the Isles of Scilly, the highest figure since 2010."
 
 
+
+
+
 Where do these ridiculous numbers come from?? Ask any of he homeless charities in and around Devon and Cornwall and they will tell you there are many more than this. 
 
 What about the ones who cnnot be seen? 
