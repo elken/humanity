@@ -29,7 +29,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 | Tuesday | 10am-3pm |
 | Wednesday | CLOSED |
 | Thursday | 10am-3pm |
-| Friday | CLOSED |
+| Friday | 3pm-4.30pm |
 | Saturday | 10am-2pm |
 | Sunday | CLOSED |
 
