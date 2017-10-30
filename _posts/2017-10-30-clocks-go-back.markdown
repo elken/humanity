@@ -1,0 +1,6 @@
+---
+title: Clocks go back.
+date: 2017-10-30 16:24:00 Z
+---
+
+We have been incredibly busy this week and we are seeing more and more people coming into Humanity . We also had a cry for help this week which was just terrible poor man phoned up absolutely desperate because he lost his job and was going to wait six weeks for universal credit you had no money no food nothing and three children . Can I . thank absolutely everybody who helped with money and food for this family there are some really wonderful wonderful people out there. We are seeing lots more families asking us for help and as people are aware we can't have anybody under the age of 18 in our buildings so we are having to help and support them else where .can I thank Ray from the .Job centre who is helping work with us with volunteers.can I thank absolutely everybody for all the wonderful donations they've been bringing in all week we are truly humbled and honoured that so many people want to help . Humanity is an absolute joy for all of us it's so wonderful to see so many people getting help and support . Love and hugs is always the best way forward . We have had so many professional visitors and would like to thank all of you for coming into See us . So with love and joy May you all have a beautiful week x
