@@ -34,7 +34,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 | Sunday | CLOSED |
 
 <h2>Call Us</h2>
-<p>01803 297537</p>
+<p>01803 211297</p>
 
 <h2>Email us!</h2>
 
