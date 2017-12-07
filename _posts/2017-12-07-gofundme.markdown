@@ -5,4 +5,4 @@ date: 2017-12-07 15:18:00 Z
 
 We now have a #Gofundme page. Please help us reach our goal
 
-[](https://www.gofundme.com/humanityatchristmas)
+https://www.gofundme.com/humanityatchristmas
