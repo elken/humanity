@@ -1,0 +1,6 @@
+---
+title: Massive Thanks.
+date: 2018-02-08 09:58:00 Z
+---
+
+Massive thank you for all the support we have received from so many people far and wide we are truly overwhelmed with it all . We now have links with lots of homeless charities and organisations and look forward to working with you . I am so pleased that the chamber of commerce seem to think that we also successful in what we do . We absolutely love helping everybody and only 20% or homeless of who we actually help. At humanity we help everybody with a real mixture of issues . Myself and another person are working on a strategy that will hopefully help sort out who the genuine homeless are and who the actual professional beggars are . I could not be more proud of humanity Torbay and we are not leaving Torquay . We are here to help absolutely everybody and anybody . Go with much love and go with the spirits of love and happiness humanity is here for everyone xxand above all of the homeless should be housed nobody should be homeless xxx
